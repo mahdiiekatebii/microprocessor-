@@ -41,8 +41,10 @@ void loop() {
 پس از اجرای برنامه، می‌توانید در Serial Monitor عدد 10 را تایپ کرده و ارسال کنید تا LED روشن شود. برای خاموش کردن LED، عدد 20 را ارسال کنید.
 
 ## تصاویر:
-![تصویر مدار](path/to/image1.jpg)
-![تصویر Serial Monitor](path/to/image2.jpg)
+![images](https://github.com/user-attachments/assets/4ad6c932-8026-4d4b-9644-78524004332b)
+
+![pick](https://github.com/user-attachments/assets/7bb7637b-6d6e-438b-8cfd-43faead49f52)
+
 
 ## نتیجه‌گیری:
 این پروژه نشان‌دهنده‌ی نحوه‌ی کنترل LED با استفاده از ارسال اعداد از طریق Serial Monitor در Arduino است. با ارسال اعداد خاص، می‌توانیم LED را روشن و خاموش کنیم.
