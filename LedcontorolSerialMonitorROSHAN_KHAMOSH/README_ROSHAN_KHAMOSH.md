@@ -42,8 +42,10 @@ void loop() {
 پس از اجرای برنامه، می‌توانید در Serial Monitor کلمات "ROSHAN" و "KHAMOSH" را تایپ کرده و ارسال کنید. با ارسال "ROSHAN" LED روشن می‌شود و با ارسال "KHAMOSH" LED خاموش می‌شود.
 
 ## تصاویر:
-![تصویر مدار](path/to/image1.jpg)
-![تصویر Serial Monitor](path/to/image2.jpg)
+![تصویر مدار]![pick](https://github.com/user-attachments/assets/025f8c2d-b4fa-4cd5-bf7d-7a031ebbd0da)
+
+
+![images](https://github.com/user-attachments/assets/15213bd1-2b2e-42bf-beb9-d76b6cda25ad)
 
 ## نتیجه‌گیری:
 این پروژه نشان‌دهنده‌ی نحوه‌ی کنترل LED با استفاده از دستورات متنی از طریق Serial در Arduino است. با ارسال کلمات خاص، می‌توانیم LED را روشن و خاموش کنیم.
