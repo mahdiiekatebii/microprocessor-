@@ -1,4 +1,4 @@
-readme_content_fa_led_btn = """
+
 # پروژه Arduino: کنترل LED با استفاده از دکمه فشاری
 
 ## مقدمه
@@ -9,7 +9,11 @@ readme_content_fa_led_btn = """
 1. **setup()**: در این بخش، پین‌های مربوط به LED و دکمه فشاری تنظیم می‌شوند.
 2. **loop()**: این بخش به صورت مداوم اجرا می‌شود و وضعیت دکمه فشاری را بررسی می‌کند. اگر دکمه فشرده شده باشد، LED روشن و در غیر این صورت، خاموش می‌شود.
 
+![pick1](https://github.com/user-attachments/assets/1d8443bd-1d87-4e76-ab49-97a2e64c1a4f)
+
 ## بخش‌هایی از کد
+![pick2](https://github.com/user-attachments/assets/fafada57-8655-4d76-8733-c09c1da6578c)
+
 ```cpp
 const int led = 13;  // پین مربوط به LED
 const int pushbtn = 2;  // پین مربوط به دکمه فشاری
