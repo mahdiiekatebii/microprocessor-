@@ -28,6 +28,8 @@ void loop() {
 }
 ```
 
+![pick1](https://github.com/user-attachments/assets/3bec20d4-9db0-4f32-b71e-a1520c017574)
+
 ## قطعات استفاده شده
 - برد Arduino
 - LED
