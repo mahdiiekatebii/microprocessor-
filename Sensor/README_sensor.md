@@ -29,3 +29,5 @@
 ## نکات اضافی
 - در این پروژه از led خود برد استفاده شده است در تصوری مشخص شده است
 
+![pic1](https://github.com/user-attachments/assets/60827808-e020-49c0-b38b-a4cb85433532)
+![pic2](https://github.com/user-attachments/assets/73b59187-bb24-4c05-b342-03474fe8d463)
