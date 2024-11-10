@@ -26,3 +26,6 @@
 ## نکات اضافی
 - با تغییر مقدار `delay(10)` می‌توانید سرعت واکنش LED به تغییرات پتانسیومتر را تنظیم کنید.
 - از یک مقاومت مناسب برای LED استفاده کنید تا جریان اضافی به آن وارد نشود و آسیب نبیند.
+- ![pic1](https://github.com/user-attachments/assets/52bc6e22-359b-43db-9a3f-4438c921133c)
+![pic2](https://github.com/user-attachments/assets/4a1e44d7-9008-439d-9b9d-22d47c97c0e7)
+
