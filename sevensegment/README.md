@@ -28,4 +28,10 @@
 
 ## نکات اضافی
 - در صورت نیاز می‌توان تاخیر را برای نمایش سریع‌تر یا کندتر تنظیم کرد.
+
 - آرایه‌ی `sequence` قابلیت تغییر دارد و می‌توان آن را برای سایر الگوهای نمایش استفاده کرد.
+![pic1](https://github.com/user-attachments/assets/a4f84ba9-89c8-4e01-91a1-d6880dd65122)
+
+
+![pic2](https://github.com/user-attachments/assets/cc82923a-6ab3-4afa-821e-d72988ecbfb5)
+
