@@ -31,4 +31,8 @@
 ## نکات اضافی
 - برای تغییر روشنایی، مقدار `setBrightness` را تغییر دهید.
 - در صورت استفاده از نمایشگرهای چندرقمی، می‌توانید تنظیمات را به صورت دلخواه تغییر دهید و تعداد دیجیت‌ها و پین‌ها را تنظیم کنید.
+
 - از دستور `COMMON_CATHODE` استفاده کنید اگر نمایشگر شما از نوع کاتد مشترک است.
+![pic1](https://github.com/user-attachments/assets/f8dbdbc5-9bd4-4f30-9d0d-9cdb0057a0d7)
+
+![pic2](https://github.com/user-attachments/assets/d27df83e-4e8d-44b1-b1ca-1b874d66e671)
