@@ -25,4 +25,8 @@
 
 ## نکات اضافی
 - با تغییر مقدار `delay` در حلقه، سرعت رقص نور را می‌توان تغییر داد.
+
 - برای افزودن الگوهای نورپردازی بیشتر، می‌توان ردیف‌های جدیدی به آرایه `dancinglight` اضافه کرد.
+![pic1](https://github.com/user-attachments/assets/fb8939f6-98c0-430d-acb9-a91f7192db58)
+![pic3](https://github.com/user-attachments/assets/8992a1de-ad10-4bb3-9d9f-048a2b32be95)
+![pic1](https://github.com/user-attachments/assets/08315b85-43ee-4245-82c8-7b7bd28f517b)
