@@ -33,5 +33,12 @@
 ## نحوه استفاده
 1. کد را در نرم‌افزار Arduino IDE کپی کرده و روی برد آپلود کنید.
 2. سریال مانیتور را باز کنید و نرخ `9600` بیت بر ثانیه را تنظیم کنید.
+
 3. دمای محیط را به صورت زنده مشاهده کنید.
+
+
+![tem](https://github.com/user-attachments/assets/50a7e8c8-7afb-418e-a6a5-4f7a274fbbc5)
+![img2](https://github.com/user-attachments/assets/bc94873f-5722-4ce0-b469-6d6f55649ce9)
+![img1](https://github.com/user-attachments/assets/b738c745-4a9d-4f71-bb85-ffe6df0ac18c)
+
 
