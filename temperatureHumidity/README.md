@@ -43,3 +43,12 @@
 2. سریال مانیتور را باز کنید و نرخ `9600` بیت بر ثانیه را تنظیم کنید.
 3. دما و رطوبت محیط را مشاهده کنید و عملکرد خنک‌کننده و گرم‌کننده را بررسی کنید.
 
+
+![1](https://github.com/user-attachments/assets/9a873972-d0ed-4d47-b10d-c62c1c4b7f47)
+![img1](https://github.com/user-attachments/assets/8f4cd334-cfa6-45f4-83ac-8f88cd893cf7)
+![img2](https://github.com/user-attachments/assets/1319d20e-0eac-4d32-b47f-46995477249f)
+
+
+
+
+
