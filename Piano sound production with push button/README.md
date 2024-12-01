@@ -36,4 +36,13 @@
 ## نکات مهم
 - از اتصال صحیح تمام قطعات اطمینان حاصل کنید.
 - مطمئن شوید که مقاومت‌های Pull-Up برای دکمه‌ها فعال هستند.
+![img1](https://github.com/user-attachments/assets/6d78e2cb-fdea-433a-8295-881d30d49ce1)
+
+![img2](https://github.com/user-attachments/assets/9cac55e7-2c3f-4f2b-9d73-b5ca823aeb6d)
+![piano](https://github.com/user-attachments/assets/afb969f3-7be2-4b52-bce2-056a7468dc5a)
+
+
+
+
+
 
