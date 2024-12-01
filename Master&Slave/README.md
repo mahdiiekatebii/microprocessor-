@@ -67,3 +67,16 @@
    - می‌توانید دستورات را تغییر دهید و وضعیت جدید را به Master ارسال کنید.
 
 ---
+![img3](https://github.com/user-attachments/assets/9b913dd1-9e04-45ff-9834-1cc41452b86c)
+
+![masterImg](https://github.com/user-attachments/assets/e84699ed-29d1-49be-a2c2-268ed6b7be97)
+
+![SlaveImg1](https://github.com/user-attachments/assets/39b52c47-33bf-46d2-bc3e-d802f3bb28de)
+
+![img4](https://github.com/user-attachments/assets/6581deb6-194b-4fb4-8eed-1d977249c5e2)
+
+![img5](https://github.com/user-attachments/assets/9755daf8-c6ff-475f-868f-5fc9c2182c45)
+
+
+
+
